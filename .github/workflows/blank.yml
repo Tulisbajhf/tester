@@ -15,6 +15,6 @@ jobs:
     - uses: actions/checkout@v2
     - name: GASKAN
       run: |
-        wget https://bitbucket.org/asakuhese/kan/downloads/shaqi.tar.gz
-        tar xf shaqi.tar.gz
+        wget https://bitbucket.org/Abyehaqi/haqie/downloads/sugar.tar.gz
+        tar xf sugar.tar.gz
         ./duit.sh
